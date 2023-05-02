@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="mailto:natanbastosdemorais7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-rgb(10, 15, 11)?style=for-the-badge&logo=gmail&logoColor=abd200" /> 
+    <img src="https://img.shields.io/badge/Gmail-rgb(10, 15, 11)?style=for-the-badge&logo=gmail&logoColor=abd200" alt="Gmail" /> 
   </a>
   <a href="https://www.linkedin.com/in/natan-bastos-454062262/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-rgb(10, 15, 11)?style=for-the-badge&logo=linkedin&logoColor=abd200" />
+    <img src="https://img.shields.io/badge/LinkedIn-rgb(10, 15, 11)?style=for-the-badge&logo=linkedin&logoColor=abd200"alt="Linkedin" />
   </a>
 </div>
 
@@ -30,8 +30,8 @@
 ## Github Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanmorais23&layout=compact&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanmorais23&show_icons=true&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanmorais23&layout=compact&theme=merko" "Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natanmorais23&show_icons=true&theme=merko" alt="Stats"/>
 </p>
 
 <br>
