@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="mailto:natanbastosdemorais7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-rgb(10, 15, 11)?style=for-the-badge&logo=gmail&logoColor=abd200" />
+    <img src="https://img.shields.io/badge/Gmail-rgb(10, 15, 11)?style=for-the-badge&logo=gmail&logoColor=abd200" /> 
   </a>
   <a href="https://www.linkedin.com/in/natan-bastos-454062262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-rgb(10, 15, 11)?style=for-the-badge&logo=linkedin&logoColor=abd200" />
