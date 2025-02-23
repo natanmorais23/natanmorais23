@@ -5,9 +5,13 @@
     <img src="https://img.shields.io/badge/Gmail-rgb(10, 15, 11)?style=for-the-badge&logo=gmail&logoColor=abd200" alt="Gmail" /> 
   </a>
   <a href="https://www.linkedin.com/in/natan-bastos-454062262/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-rgb(10, 15, 11)?style=for-the-badge&logo=linkedin&logoColor=abd200"alt="Linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0F0B?style=for-the-badge&logo=linkedin&logoColor=abd200" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/natan_mrs/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-rgb(10, 15, 11)?style=for-the-badge&logo=instagram&logoColor=abd200" alt="Instagram" />
   </a>
 </div>
+
 
 ## Presentation
 
