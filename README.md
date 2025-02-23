@@ -41,6 +41,6 @@
 
 <br>
 
-> "O maior risco é não correr nenhum risco. Em um mundo que muda muito rapidamente, a única estratégia que certamente falhará é não correr riscos."  
+> "O maior risco é não correr nenhum risco."  
 > — Mark Zuckerberg
 
