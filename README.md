@@ -21,7 +21,7 @@
 ## Languages
 
 [![JavaScript Badge](https://img.shields.io/badge/-Javascript-0A0F0B?textColor=white&logo=javascript&logoColor=68b587&style=for-the-badge)](https://img.shields.io/badge/-Javascript-yellow?textColor=white&logo=javascript&logoColor=white&style=for-the-badge)
-[![TypeScript Badge](https://img.shields.io/badge/-typescript-0A0F0B?textColor=white&logo=typescript&logoColor=68b587&style=for-the-badge)](https://img.shields.io/badge/-typescript-blue?textColor=white&logo=typescript&logoColor=white&style=for-the-badge)
+[![Python Badge](https://img.shields.io/badge/-Python-0A0F0B?textColor=white&logo=python&logoColor=68b587&style=for-the-badge)](https://img.shields.io/badge/-Python-yellow?textColor=white&logo=python&logoColor=white&style=for-the-badge)
 [![React Native Badge](https://img.shields.io/badge/-React%20Native-0A0F0B?logo=react&logoColor=68b587&style=for-the-badge)](https://img.shields.io/badge/-React%20Native-00ECFF?logo=react&logoColor=white&style=for-the-badge)
 [![VueJs Badge](https://img.shields.io/badge/-Vue.js-0A0F0B?logo=vue.js&logoColor=68b587&style=for-the-badge)](https://img.shields.io/badge/-Vue.js-42B883?logo=vue.js&logoColor=white&style=for-the-badge)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-0A0F0B?logo=html5&logoColor=68b587&style=for-the-badge)](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge)
