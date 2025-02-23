@@ -28,7 +28,8 @@
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-0A0F0B?logo=css3&logoColor=68b587&style=for-the-badge)](https://img.shields.io/badge/-CSS3-5188FE?logo=css3&logoColor=white&style=for-the-badge)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-0A0F0B?logo=bootstrap&logoColor=68b587&style=for-the-badge)](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 [![TailwindCSS Badge](https://img.shields.io/badge/-TailwindCSS-0A0F0B?logo=tailwindcss&logoColor=68b587&style=for-the-badge)](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
-
+[![ExpressJS Badge](https://img.shields.io/badge/-Express.js-0A0F0B?logo=express&logoColor=68b587&style=for-the-badge)](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-0A0F0B?logo=postgresql&logoColor=68b587&style=for-the-badge)](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 
 
 ## Github Stats
@@ -40,4 +41,6 @@
 
 <br>
 
-*"Insanity is doing the same thing over and over again and expecting different results."*
+> "O maior risco é não correr nenhum risco. Em um mundo que muda muito rapidamente, a única estratégia que certamente falhará é não correr riscos."  
+> — Mark Zuckerberg
+
